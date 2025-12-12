@@ -33,11 +33,10 @@ Apart from coding, I enjoy:
 
 ##
 
-### My Github Stats
-
 
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+
 
